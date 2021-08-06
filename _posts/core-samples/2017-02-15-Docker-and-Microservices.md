@@ -13,7 +13,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: /assets/research/4. Target Sensing for High Speed Flying Object using Image Processing.pdf
+canonical: https://hi-iot.github.io/research-area.html
 
 ---
 {% include JB/setup %}
