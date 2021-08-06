@@ -18,7 +18,7 @@ canonical: /assets/research/4. Target Sensing for High Speed Flying Object using
 ---
 {% include JB/setup %}
 
-Target Sensing for High Speed Flying Object using Image Processing
+Investigate/research micro-service-based application architecture implementation and related framework trends beyond monolithic architectures
 
 <!--more-->
 ## Testing code snippet highlight
