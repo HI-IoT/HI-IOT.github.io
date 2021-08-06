@@ -18,7 +18,7 @@ canonical: /assets/research/3. Smart Control Platform Technology for Aging and D
 ---
 {% include JB/setup %}
 
-Smart Control Platform Technology for Aging and Disabled Persons Care
+Development of Object Recognition Technology in Images Using Mechanical Learning
 <!--more-->
 That are **more faster than major other sites in the world** 
 
