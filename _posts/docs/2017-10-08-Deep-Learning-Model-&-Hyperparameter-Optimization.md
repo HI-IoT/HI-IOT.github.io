@@ -13,7 +13,7 @@ css:
 js: 
 bgcolor: 
 keywords: html, css, markdown, jekyll, docs, jekyllthemes, theme
-canonical: /assets/research/1. User-Customized Smart Mobile Platform Technology for Smart Work & Space Environment.pdf
+canonical: https://hi-iot.github.io/research-area.html
 
 ---
 {% include JB/setup %}
