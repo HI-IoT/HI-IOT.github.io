@@ -18,7 +18,7 @@ canonical: /assets/research/2. Optimal Social TV Services Provides User Customiz
 ---
 {% include JB/setup %}
 
-Optimal Social TV Services Provides User Customization
+Development of IoT Smart Sensor-based System and Management Program to Detect Phenomenon during Control
 <!--more-->
 That are **more faster than major other sites in the world** 
 
