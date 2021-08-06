@@ -17,7 +17,7 @@ canonical: /assets/research/1. User-Customized Smart Mobile Platform Technology 
 
 ---
 {% include JB/setup %}
-User-Customized Smart Mobile Platform Technology for Smart Work & Space Environment
+A Study on the Deep Learning Model and Hyperparameter Optimization Based on Neural Networks
 <!--more-->
 
 # Examples
