@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, web desing, css, html, bootstrap 4
-canonical: /assets/research/3. Smart Control Platform Technology for Aging and Disabled Persons Care.pdf
+canonical: https://hi-iot.github.io/research-area.html
 ---
 {% include JB/setup %}
 
