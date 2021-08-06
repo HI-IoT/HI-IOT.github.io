@@ -18,7 +18,7 @@ canonical: /assets/research/5. Developing and managing CDN for DASH streaming.pd
 ---
 {% include JB/setup %}
 
-Developing and managing CDN for DASH streaming
+Development of PLC module enhancement and control programs used in smart factory and various industrial sites
 <!--more-->
 
 Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
