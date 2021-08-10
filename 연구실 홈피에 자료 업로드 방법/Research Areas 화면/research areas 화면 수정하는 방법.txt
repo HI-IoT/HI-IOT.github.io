@@ -1,0 +1,25 @@
+아래 코드를 보면 
+<div class="blog-block post-content-area">
+            <img src="/assets/images/blog/[완성]결제관련사진.png">
+            <div class="blog-post">
+              <h3><a href="#">2. IoT Using Technology for Phenomenon Detection</a></h3>
+              <p>Development of IoT Smart Sensor-based System and Management Program to Detect Phenomenon during Control</p>
+              <p>
+                <ul class="list-featured space-bottom-20">
+                  <li>Define and classify labels for specific phenomenon detection in images/video</li>
+                  <li>A Study on High Capacity/Real-Time Media Transmission Technology for Controlling Ultra Low Latency Rate</li>
+                  <li>Development of a phenomenon feature extraction and learning algorithm using ML</li>
+                </ul>
+             </p>
+              
+           </div>
+</div>
+
+이 <div class="blog-block post-content-area">~~~~</div> 부분이 하나의 테마를 가진다. 
+1. 이미지를 띄우는 부분 수정하기
+<img src="/assets/images/blog/[완성]결제관련사진.png">에서 [완성]결제관련사진.png을 다른 사진으로 바꾸어주면 된다.
+
+2. 내용 바꾸기.
+틀은 똑같다. 
+위에 <h3></h3>를 이용해 대주제를 적어주고, 그 아래에 소주제로 대주제에 대한 구체적인 내용을 적어준다.
+그리고 아래 <li></li>부분은 더 구체적으로 어떤 내용으로 하나 말해준다. 

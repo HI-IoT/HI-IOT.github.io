@@ -1,0 +1,28 @@
+1. 자료를 석사형들이나 박사형들한테 받는다. (학부생일 경우)
+2. 아래와 같은 구성을 이해한다.
+
+국제 논문의 경우, 
+
+ 	      <tr>
+                    <td>2020.12.</td>
+                    <td>김영광,김진술, 자율주행 환경에서 이미지 객체 분할을 위한 강화된 DFCN 알고리즘 성능연구 </td>
+                    <td><a href="https://kism.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/search/poArtiSear.kci&s_MenuId=MENU-000000000051000" target="_blank">View</a></td>
+                  </tr>
+
+위와 같은 형식으로 되어있다. 
+<td>2020.12.</td> 
+는 publish 된 날짜, 
+<td>김영광,김진술, 자율주행 환경에서 이미지 객체 분할을 위한 강화된 DFCN 알고리즘 성능연구 </td>
+는 이 논문의 저자들과 제목
+<td><a href="https://kism.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/search/poArtiSear.kci&s_MenuId=MENU-000000000051000" target="_blank">View</a></td>
+는 이 논문을 읽고 싶을 때 논문에 쉽게 접근할 수 있는 링크이다. 
+
+3. 형들에게 받은 자료의 제목을 복사하여 google scholar라는 구글 학술 검색창에 붙여넣는다.
+그리고 검색하면, 그 논문이 바로 뜬다.논문을 들어가서 링크를 걸어두면 완료.
+논문을 들어가보면 publish된 날짜 및 저자 그리고 제목이 다 나와있다.
+<a href="https://kism.jams.or.kr/co/com/EgovMenu.kci?s_url=/po/search/poArtiSear.kci&s_MenuId=MENU-000000000051000" target="_blank">View</a>
+이부분에서 링크는 href=" ~~~~~" 부분이다. 이부분을 바꾸어 주면 된다.
+
+4. 자료는 맨 위가 최신의 것이고 맨 아래가 오래된 것이다.
+
+5. 링크가 걸리는지 홈페이지에 적용해보고 체크한다. 이런 자료들 특히 국내 특허는 링크가 안걸리는 경우가 있다.

@@ -1,0 +1,40 @@
+아래와 같이 <div>로 묶인 내용이 있다.
+
+            <div class="col-sm-6 col-md-3">
+              <!-- Team Item Starts -->
+              <div class="team-item">
+                <a href="#">
+                  <figure class="team-profile">
+                    <img src="/assets/images/team/portrait_Leon.jpg" alt="">
+                    <figcaption class="our-team">
+                      <div class="details">
+                        <p class="content-white">Email:
+                          <br>
+                          </p>
+                        <hr class="small-divider border-white">
+                        
+                      </div>
+                    </figcaption>
+                  </figure>
+                </a>
+                <div class="info">
+                  <h2>
+                    김상우(Sangwoo Kim)
+                  </h2>
+                  <p>
+                    Master's degree
+                  </p>
+                </div>
+              </div>
+              <!-- Team Item Ends -->
+            </div>
+
+1.위와 같이 <div class="col-sm-6 col-md-3">   ~~~~~ </div>로 묶인 부분이 있다. 이를 한 사람당 하나씩으로 생각해서 묶어주면
+된다.
+
+2. 이름을 바꾼다.    <h2>~ </h2> 에 있는 김상우(Sangwoo Kim)을 다른 이름으로 바꾸어준다.
+
+3. 사진을 바꾼다.  <img src="/assets/images/team/portrait_Leon.jpg" alt=""> 이부분에서 뒤에 portrait_Leon.jpg을 다른 사진 파일의
+이름으로 바꾸어준다. 
+이때 집어 넣을 사진은 /assets/images/team/이 경로안에 존재해야한다. 
+또, 사진의 크기 또한 위의 사진과 동일하게 바꾸어주어야한다. 픽셀 크기를 조절해야한다. 
