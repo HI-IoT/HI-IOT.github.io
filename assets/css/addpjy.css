@@ -2,3 +2,120 @@
 .second-color{color: #eb586f;}
 .second-width{width: 70;}
 .default-footer-copy{background:#232935;padding-bottom: 20px;padding-top: 20px;}
+.box{border:1px solid; border-radius: 12px; overflow:hidden;}
+
+.professor-container{max-width: 960px; width: 100px; padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto;}
+.professor-row{display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px;}
+.professor-firstblank1{-webkit-box-flex: 0; flex: 0 0 41.666667%; max-width: 41.666667%; position: relative; width: 100%; min-height: 1px; padding-right: 15px; padding-left: 15px;}
+.professor-secondblank1{-webkit-box-flex: 0; flex: 0 0 50%; max-width: 50%; position: relative; width: 100%; min-height: 1px; padding-right: 15px; padding-left: 15px; margin-left: 8.333333%;}
+.professor-firstblank1-1{padding: 0; position: relative; box-shadow: 0 5px 25px 0 rgb(204, 204, 204 / 75%); border-radius: 12px; overflow: hidden; margin-top: 0; transition: margin-top 0.5s;}
+
+/* 내용 들어갈 장소 할당해주기. display: flex 이용 */
+.professor-parent{
+    width: 78%;
+    margin: 10px auto;
+    display: flex;
+    padding: 70px 0 50px 0;
+}
+
+.professor-first {
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 12px;
+    box-shadow: 0 5px 25px 0 rgba(204, 204, 204 , .75);
+    flex: 1;
+    max-width: 38%; /* 0.385*/
+    box-sizing: border-box; /* 이 boreder-box라는 부분은 경계선의 두께까지 포함한다는 
+    의미이다.*/
+    margin-top: 0;
+    overflow: hidden;
+
+}
+.professor-middle{
+    
+    max-width: 10%; 
+    box-sizing: border-box; /* 0.1*/
+    margin: 0 auto;
+}
+.professor-second{
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 12px;
+    box-shadow: 0 5px 25px 0 rgba(204, 204, 204 , .75);
+    flex: 1;
+    
+    max-width: 52%; /* 0.512*/
+    box-sizing: border-box;
+    overflow: hidden;
+    
+
+}
+
+/* 박스 안의 텍스트 및 그림 위치 잡아주기. */
+.professor-info1{
+    position: relative;
+    padding: 30px;
+}
+.professor-1-firstcontent{
+    margin-bottom: 20;
+}
+.professor-name{
+    font-size: 20px;
+    line-height: 35px;
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+.professor-professor{
+    font-size: 15px;
+    font-weight: 500;
+    color: #760023;
+    margin-bottom: 3px;
+}
+.professor-university{
+    font-size: 15px;
+    font-weight: 500;
+    color: #333;
+    line-height: 23px;
+}
+.professor-contact{
+    font-size: 15px;
+    color: #848484;
+    line-height: 26px;
+    font-weight: 400;
+}
+.professor-info2{
+    padding: 40px 40px 50px 50px;
+    margin-bottom: 60px;
+}
+.professor-education{
+    margin-bottom: 32px;
+    position: relative;
+}
+.professor-contentbox{
+    position: relative;
+    
+}
+.professor-deco{
+    border-radius: 50%;
+    height: 10px;
+    height: 10px;
+    background-color: #760023;
+
+}
+.professor-singleitem{
+    padding-left: 60px;
+    margin-bottom: 30px;
+}
+.professor-date{
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 0;
+    position: relative;
+    display: block;
+    color: #760023;
+}
+.professor-text{
+    font-size: 14px;
+    line-height: 22px;
+    color: #848484;
+    font-weight: 400;
+}
