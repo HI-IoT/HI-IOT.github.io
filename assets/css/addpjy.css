@@ -121,3 +121,7 @@
 }
 #m_slide-text{color: #fff;}
 #m_nav-link{font-size: 15px; font-weight: 500;}
+
+.No_line_over{
+    word-break : nowrap;
+}
