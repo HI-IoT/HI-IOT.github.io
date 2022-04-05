@@ -144,7 +144,9 @@
     font-size: 50px;
     font-weight: 600;
     margin-bottom: 10px;
+    text-align: left;
 }
 #slideLeft{
     text-align: left;
+    color: white;
 }
