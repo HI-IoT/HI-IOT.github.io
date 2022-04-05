@@ -125,3 +125,7 @@
 .No_line_over{
     word-break : nowrap;
 }
+
+#padZero{
+    padding: 0;
+}
