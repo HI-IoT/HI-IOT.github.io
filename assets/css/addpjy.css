@@ -139,3 +139,9 @@
     opacity: 1.0;
     */
 }
+
+#slideImage{
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
