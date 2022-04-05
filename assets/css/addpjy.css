@@ -149,3 +149,10 @@
     text-align: left;
     color: white;
 }
+
+#textCen{
+    text-align: center;
+}
+.textSize1{
+    font-size: 15px;
+}
