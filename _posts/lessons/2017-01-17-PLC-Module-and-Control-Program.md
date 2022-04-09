@@ -18,7 +18,7 @@ canonical: https://hi-iot.github.io/research-area.html
 ---
 {% include JB/setup %}
 
-Development of PLC module enhancement and control programs used in smart factory and various industrial sites
+스마트팩토리와 다양한 산업현장에서 사용되는 PLC 모듈 개선 및 제어 프로그램 개발
 <!--more-->
 
 Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
