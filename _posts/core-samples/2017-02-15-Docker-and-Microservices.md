@@ -18,7 +18,7 @@ canonical: https://hi-iot.github.io/research-area.html
 ---
 {% include JB/setup %}
 
-Investigate/research micro-service-based application architecture implementation and related framework trends beyond monolithic architectures
+단일 아키텍처를 넘어선 마이크로 서비스 기반 애플리케이션 아키텍처 구현 및 관련 프레임워크 동향 조사/연구
 
 <!--more-->
 ## Testing code snippet highlight
