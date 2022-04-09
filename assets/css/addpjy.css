@@ -159,5 +159,5 @@
 #widthMax{
     width: 2000px;
     overflow: hidden;
-    
+    height: auto;
 }
