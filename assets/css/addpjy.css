@@ -186,11 +186,13 @@
     color: white;
 }
 .footerFirst{
-    display: inline;
+    display: inline-block;
     width: 500px;
+    color: white;
 }
 .footerSecond{
     width: 600px;
+    color: white;
 }
 .footerFirstImage{
     width: 300px;
