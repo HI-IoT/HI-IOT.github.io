@@ -170,6 +170,8 @@
     height: 250px;
     font-size: 17px;
     font-weight: bold;
+    padding: 20px;
+    margin: 10px;
 }
 .researchPicName{
     display: block;
