@@ -18,7 +18,7 @@ canonical: https://hi-iot.github.io/research-area.html
 ---
 {% include JB/setup %}
 
-Development of IoT Smart Sensor-based System and Management Program to Detect Phenomenon during Control
+제어시 현상탐지를 위한 IoT 스마트센서 기반 시스템 및 관리 프로그램 개발
 <!--more-->
 That are **more faster than major other sites in the world** 
 
