@@ -164,3 +164,13 @@
 .textCen1{
     text-align: center;
 }
+.researchIcon{
+    display: inline-block;
+    width: 320px;
+    height: 250px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.researchPicName{
+    display: block;
+}
