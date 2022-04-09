@@ -17,7 +17,7 @@ canonical: https://hi-iot.github.io/research-area.html
 
 ---
 {% include JB/setup %}
-A Study on the Deep Learning Model and Hyperparameter Optimization Based on Neural Networks
+신경망 기반 딥러닝 모델과 하이퍼 파라미터 최적화에 관한 연구
 <!--more-->
 
 # Examples
