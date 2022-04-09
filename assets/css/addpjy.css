@@ -192,6 +192,9 @@
     color: white;
     padding-right: 100px;
 }
+#footerFirstSecond{
+    padding-right: 200px;
+}
 .footerSecond{
     display: inline-block;
     width: 600px;
