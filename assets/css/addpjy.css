@@ -198,6 +198,9 @@
     height: 300px;
     color: white;
 }
+#footerSecondText{
+    text-align: left;
+}
 .footerFirstImage{
     width: 300px;
     height: 150px;
