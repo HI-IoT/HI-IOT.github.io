@@ -18,7 +18,7 @@ canonical: https://hi-iot.github.io/research-area.html
 ---
 {% include JB/setup %}
 
-Development of Object Recognition Technology in Images Using Mechanical Learning
+기계학습을 이용한 영상물에서의 객체인식 기술 개발
 <!--more-->
 That are **more faster than major other sites in the world** 
 
