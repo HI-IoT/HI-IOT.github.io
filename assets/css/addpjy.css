@@ -173,4 +173,10 @@
 }
 .researchPicName{
     display: block;
+    width: 150px;
+    height: 150px;
+}
+.researchName{
+    font-size: 17px;
+    font-weight: bold;
 }
