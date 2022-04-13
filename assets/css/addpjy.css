@@ -219,5 +219,8 @@
 }
 .imgBorder{
     border: 1px solid black;
-    
+
+}
+.memberFont{
+    font-size: 15px;
 }
