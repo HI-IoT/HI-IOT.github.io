@@ -178,7 +178,6 @@
     display: block;
     width: 150px;
     height: 150px;
-    display: block;
     margin: 0px auto;
 }
 .researchName{
@@ -217,4 +216,7 @@
 }
 #recentNewsTitle{
     text-align: center;
+}
+#robotLeft{
+    margin-left: 10px;
 }
