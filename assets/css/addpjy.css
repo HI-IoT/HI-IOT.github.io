@@ -217,6 +217,7 @@
 #recentNewsTitle{
     text-align: center;
 }
-#robotLeft{
-    margin-left: 10px;
+.imgBorder{
+    border: 1px solid black;
+    
 }
