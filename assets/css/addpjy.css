@@ -263,7 +263,7 @@ td{
     background-color: #d3d3d3 !important;
     cursor: pointer;
 }
-.aColor{
+.aColor,a.aColor:visited{
     color: black;
 }
 a.aColor:hover{
