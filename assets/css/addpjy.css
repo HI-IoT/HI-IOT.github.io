@@ -270,7 +270,7 @@ a.aColor:hover{
     color: #00a99d;
 }
 a.navColor:hover,a.aColor:visited{
-    color: #00a99d;
+    color: #00a99d !important;
 }
 a.navBackgroundColor:hover{
     background-color: #00a99d !important;
