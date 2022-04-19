@@ -258,11 +258,14 @@ td{
     border-right: 0px solid white; 
     border-bottom: 1px solid black;   
 }
-.changeColorTd{
-    background-color: #d3d3d3;
-    cursor: pointer;
-}
+
 .newsTable table tr:hover{
     background-color: #d3d3d3 !important;
     cursor: pointer;
+}
+.aColor{
+    color: black;
+}
+a.aColor:hover{
+    color: #00a99d;
 }
