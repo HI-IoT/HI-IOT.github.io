@@ -272,3 +272,6 @@ a.aColor:hover{
 a.navColor:hover,a.aColor:visited{
     color: #00a99d;
 }
+a.navBackgroundColor:hover{
+    background-color: #00a99d !important;
+}
