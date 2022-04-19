@@ -269,7 +269,7 @@ td{
 a.aColor:hover{
     color: #00a99d;
 }
-a.navColor:hover,a.aColor:visited{
+a.navColor:hover,a.navColor:visited{
     color: #00a99d !important;
 }
 a.navBackgroundColor:hover{
