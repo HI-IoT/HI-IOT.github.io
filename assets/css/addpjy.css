@@ -264,4 +264,5 @@ td{
 }
 .newsTable table tr:hover{
     background-color: #d3d3d3 !important;
+    cursor: pointer;
 }
