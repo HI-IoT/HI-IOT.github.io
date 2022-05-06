@@ -279,6 +279,7 @@ a.navBackgroundColor:hover{
     background-color: #00a99d !important;
 }
 .articleInlineBlock{
+    display: flex;
     display: inline-block;
     padding: 15px;
     width: 33%;
@@ -297,7 +298,6 @@ a.navBackgroundColor:hover{
     padding: 15px;
 }
 .containerProject{
-    display: flex;
     margin-right: auto;
     margin-left: auto;
     position: relative;
