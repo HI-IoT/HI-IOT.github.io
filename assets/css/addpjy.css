@@ -301,7 +301,7 @@ a.navBackgroundColor:hover{
     margin-right: 40px;
     margin-left: 40px;
     position: relative;
-    max-width: 1024px;
+    max-width: 100%;
 }
 
 .boldFontProject{
