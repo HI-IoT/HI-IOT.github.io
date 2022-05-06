@@ -292,3 +292,10 @@ a.navBackgroundColor:hover{
 .articleLabel{
     padding: 15px;
 }
+.containerProject{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    max-width: 1024px;
+}
