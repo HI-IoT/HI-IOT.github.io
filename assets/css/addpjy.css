@@ -282,6 +282,7 @@ a.navBackgroundColor:hover{
     display: inline-block;
     padding: 15px;
     width: 33%;
+    height: 30%;
     float: left;
 }
 .outlineArticle{
@@ -306,67 +307,4 @@ a.navBackgroundColor:hover{
 }
 .boldFontProject{
     font-weight: bold;
-}
-#articleOrder1{
-    order: 1;
-}
-#articleOrder2{
-    order: 2;
-}
-#articleOrder3{
-    order: 3;
-}
-#articleOrder4{
-    order: 4;
-}
-#articleOrder5{
-    order: 5;
-}
-#articleOrder6{
-    order: 6;
-}
-#articleOrder7{
-    order: 7;
-}
-#articleOrder8{
-    order: 8;
-}
-#articleOrder9{
-    order: 9;
-}
-#articleOrder10{
-    order: 10;
-}
-#articleOrder11{
-    order: 11;
-}
-#articleOrder12{
-    order: 12;
-}
-#articleOrder13{
-    order: 13;
-}
-#articleOrder14{
-    order: 14;
-}
-#articleOrder15{
-    order: 15;
-}
-#articleOrder16{
-    order: 16;
-}
-#articleOrder17{
-    order: 17;
-}
-#articleOrder18{
-    order: 18;
-}
-#articleOrder19{
-    order: 19;
-}
-#articleOrder20{
-    order: 20;
-}
-#articleOrder21{
-    order: 21;
 }
