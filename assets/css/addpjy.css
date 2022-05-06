@@ -281,6 +281,8 @@ a.navBackgroundColor:hover{
 .articleInlineBlock{
     display: inline-block;
     padding: 15px;
+    width: 50%;
+    float: left;
 }
 .outlineArticle{
     height: 100%;
@@ -288,6 +290,7 @@ a.navBackgroundColor:hover{
 }
 .articleImage{
     display: block;
+    overflow: hidden;
 }
 .articleLabel{
     padding: 15px;
