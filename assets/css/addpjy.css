@@ -297,14 +297,13 @@ a.navBackgroundColor:hover{
     padding: 15px;
 }
 .containerProject{
+    display: flex;
     margin-right: auto;
     margin-left: auto;
     position: relative;
     max-width: 1024px;
 }
-#articleAll{
-    display: flex;
-}
+
 .boldFontProject{
     font-weight: bold;
 }
