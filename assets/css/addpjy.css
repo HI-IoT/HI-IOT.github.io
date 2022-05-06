@@ -280,12 +280,15 @@ a.navBackgroundColor:hover{
 }
 .articleInlineBlock{
     display: inline-block;
+    padding: 15px;
 }
 .outlineArticle{
     height: 100%;
-    padding: 15px;
     border: 1px solid rgb(0, 0, 0, .1);
 }
 .articleImage{
     display: block;
+}
+.articleLabel{
+    padding: 15px;
 }
