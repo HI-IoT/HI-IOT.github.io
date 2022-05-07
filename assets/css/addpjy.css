@@ -313,3 +313,8 @@ a.navBackgroundColor:hover{
 .boldFontProject{
     font-weight: bold;
 }
+.articleImage>a:hover img{
+    transform: scale(1.5);
+  transition: transform 1s;
+  filter: brightness(70%);
+}
